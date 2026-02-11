@@ -1,7 +1,7 @@
-# BatchPIR (BGV/BatchEncoder) – Single & Batch query test harness
+# Sinba BatchPIR (BGV/BatchEncoder) – Single & Batch query 
 
 This folder contains a self-contained prototype implementation of:
-- **Single-query PIR** (2D BSGS as in your existing code)
+- **Single-query PIR** (2D BSGS as in existing code)
 - **Batch-query PIR** with **bucketed cuckoo placement**, and the **slot layout + pre-rotation logic** you specified.
 
 Key goals:
